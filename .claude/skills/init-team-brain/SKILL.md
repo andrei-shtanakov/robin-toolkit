@@ -83,3 +83,7 @@ Show the user each file's substance before writing.
 ## Phase 5 — Hand Off
 
 Report: claims active, files generated, judgment TODOs awaiting owners, the weekly cadence, and the eval as the standing health check. Point to `/init-team-decisions` when "how do we decide X" questions recur, and to `/robin-init` when the team wants the brain to answer questions in chat.
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

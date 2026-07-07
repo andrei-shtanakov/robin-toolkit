@@ -66,3 +66,7 @@ Tell the user: M1's acceptance test IS the demonstration event — a teammate as
 - Total question budget: at most 5 — hosting (Phase 2) and the duty-roster confirmation (Phase 3) are the only guaranteed ones; everything else is mined and confirmed.
 - Question-log findings flow upstream to the spec maintainer, never patched silently into local copies.
 - Finish by reporting: slots resolved (with provenance), questions asked (count), files written (soul.md + duties in their repo; local spec + kickoff), and the single next action (paste KICKOFF.md into a coding agent).
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

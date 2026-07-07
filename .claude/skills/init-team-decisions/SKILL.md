@@ -142,3 +142,7 @@ trustworthy — same doctrine as watching the drift checker fail.
 (decisions.md D-01..D-18 + decide-like-onsa; blind-judged eval 40/40 with-skill vs
 9/40 without). This generalization is v0.1 — field-tested at n=1, not yet
 clean-room tested. Issues welcome.*
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

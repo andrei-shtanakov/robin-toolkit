@@ -1,6 +1,8 @@
-# Team OS Toolkit
+# Robin Toolkit
 
 Build a team knowledge repo that answers questions instead of you — then give it a voice.
+
+> Robin Toolkit is a derivative work of **Team OS Toolkit** by Bayram Annakov, used under the MIT License. See [LICENSE](LICENSE).
 
 From the AI Natives build sessions (June 2026). Reference implementation running in production at Onsa.ai.
 
@@ -45,3 +47,7 @@ The toolkit is the DIY route and always will be free. If you want to build this 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

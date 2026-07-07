@@ -34,3 +34,7 @@ You are an AI agent working on <product/team> for a teammate. This repo is the t
 ## Conventions
 - Every doc carries frontmatter: `owner`, `stability`, `last_reviewed`, `sources`.
 - Every folder has a `CLAUDE.md` index. Filenames kebab-case. Add via PR.
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

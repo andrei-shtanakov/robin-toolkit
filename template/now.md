@@ -11,3 +11,7 @@ The team's current focus + open questions — the first thing an agent reads. Ke
 
 ## Open questions
 - <unresolved strategic question>
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

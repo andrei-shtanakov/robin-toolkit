@@ -7,3 +7,7 @@ A lean starting *shape* for a Team OS brain, grounded in the structure `onsa-bra
 2. Or copy this folder, rename, and fill the stubs as you accumulate real content.
 
 Every folder has a `CLAUDE.md` index (what lives here). Conventions: frontmatter (`owner` / `stability: stable|evolving|volatile` / `last_reviewed` / `sources`), kebab-case filenames, declarative grepable markdown. **Guard it like a constitution — add deliberately via PR, never let it become a dump.**
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->

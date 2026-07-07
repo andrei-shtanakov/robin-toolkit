@@ -84,3 +84,7 @@ Present findings grouped (recurring questions / re-explained context / tools / p
 - Declarative output, grepable markdown, kebab-case filenames.
 - **Prior attempts are evidence, not completion.** When the sweep finds existing TeamOS-like artifacts (old knowledge repos, wiki exports, half-built brains), classify each by liveness (recent commits/edits vs dormant) and let the user sort them in the Phase 1 review: canonical (extend it — never create a rival), raw material (mine it), or ignore. Never conclude "a TeamOS already exists" unless the user names one canonical repo. (Field failure: a machine littered with abandoned knowledge-base attempts convinced the agent the picture was complete — "I'm done" — before the interview even started.)
 - Finish by reporting: questions asked (count), files written, evidence items used vs discarded, and the one next action (post the message).
+<!-- SPDX-License-Identifier: MIT
+     Part of Robin Toolkit. Copyright (c) 2026 Andrei Shtanakov.
+     Derived from Team OS Toolkit, Copyright (c) 2026 Bayram Annakov (MIT).
+     Retain this notice in copies or substantial portions. See LICENSE. -->
