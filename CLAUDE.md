@@ -3,7 +3,7 @@
 ## Repo scope & boundaries
 
 - **Этот репо:** `robin-toolkit` — git-корень `all_ai_orchestrators/robin-toolkit/`, remote `git@github.com:andrei-shtanakov/robin-toolkit.git`.
-- **Соседи (READ-ONLY reference):** `../arbiter/`, `../atp-platform/`, `../deployer/`, `../dispatcher/`, `../Maestro/`, `../open-prose/`, `../proctor/`, `../prograph/`, `../prograph-vault/`, `../robin-runtime/`, `../spec-runner/`, `../spec-runner-vscode/`, `../steward/` — их код не редактировать.
+- **Соседи (READ-ONLY reference):** `../arbiter/`, `../atp-platform/`, `../deployer/`, `../dispatcher/`, `../maestro/`, `../libretto/`, `../proctor/`, `../prograph/`, `../prograph-vault/`, `../robin-runtime/`, `../spec-runner/`, `../spec-runner-vscode/`, `../steward/` — их код не редактировать.
 - Нужна правка у соседа → **стоп**: запиши handoff в `../prograph-vault/authored/notes/`
   (кросс-проектное) или `../_cowork_output/` (черновик), не трогай его файлы.
 - Кросс-репные контракты — **вендорить пиненой копией внутрь**, не ссылаться наружу.
